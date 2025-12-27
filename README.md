@@ -66,7 +66,7 @@ I believe in building applications that are easy to use, easy to maintain, and b
 ## 🐍 GitHub Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/zahrajabeenfullstackdev/zahrajabeenfullstackdev/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://github.com/zahrajabeenfullstackdev/zahrajabeenfullstackdev/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
