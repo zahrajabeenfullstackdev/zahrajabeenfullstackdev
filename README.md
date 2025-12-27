@@ -1,126 +1,85 @@
-# 👋 Hi, I'm Zahra Jabeen
-
 <p align="center">
-  <strong>Full‑Stack Developer • UI/UX Designer • Problem Solver</strong>
+  <img src="https://github.com/zahrajabeenfullstackdev/zahrajabeenfullstackdev/blob/main/github-banner.jpg" alt="Zahra Jabeen Banner" />
 </p>
 
+<h1 align="center">👋 Hi, I'm Zahra Jabeen</h1>
+
+<h3 align="center">Full Stack Developer | Laravel & WordPress Specialist | Web Solutions</h3>
+
 <p align="center">
-  <em>Building clean, scalable, and user‑focused digital products.</em>
+  <em>Designing & developing scalable, user-focused web applications.</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **professional full‑stack developer and designer** with **7+ years of hands‑on experience** building real‑world web applications.
+I’m a **professional full-stack developer and UI/UX designer** with **7+ years of hands-on experience** building production-ready web applications.
 
-I specialize in turning ideas into **fully functional, responsive, and scalable products** — from clean UI designs to robust backend systems.
-
-I care deeply about:
-
-* Clean code & maintainable architecture
-* Performance & security
-* User experience that feels natural
-* Practical solutions over over‑engineering
+I specialize in delivering **end-to-end web solutions** — from intuitive UI design to powerful backend logic. I focus on clean code, performance, and real business needs.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,react,php,laravel,wordpress,shopify,mysql,figma" />
+</p>
 
-* HTML5, CSS3, JavaScript
-* Bootstrap, Tailwind CSS
-* Blade (Laravel)
-* Responsive & Mobile‑First Design
-
-### ⚙️ Backend
-
-* PHP (Laravel 11)
-* REST APIs
-* Authentication & Authorization (Breeze, Spatie Roles & Permissions)
-* Dynamic Form Builders
-
-### 🗄️ Database
-
-* MySQL
-* Eloquent ORM
-
-### 🎨 Design
-
-* Figma
-* UI/UX Design
-* Design to Code Conversion
-
-### 🔌 Integrations
-
-* Stripe Payments
-* Currency Conversion APIs
-* CSV / Excel Import Systems
+**Frontend:** HTML, CSS, Bootstrap, JavaScript, AJAX, Vue.js, React.js
+**Backend:** PHP, Laravel 11, WordPress
+**Database:** MySQL
+**Design:** Figma, UI/UX Design
+**E-commerce:** Shopify
 
 ---
 
 ## 🧩 What I Build
 
-* Custom Laravel Web Applications
+* Custom Laravel Applications
+* WordPress Websites & Customization
 * Admin Panels & Dashboards
-* Dynamic Product & Form Systems
-* Role‑Based Access Control
-* Blog & CMS Systems
-* E‑commerce & Marketplace Features
-* Auto‑Extension & Scheduling Logic
+* Dynamic Forms & Product Systems
+* Role & Permission Systems
+* Blogs, CMS & Marketplaces
+* Payment & API Integrations
 
 ---
 
-## 🌐 Projects Highlights
+## 🌟 Featured Work
 
-### 🍽️ Food Point
-
-A restaurant website with dynamic content, blogs, and responsive UI.
-
-### 🧾 Product Form Builder
-
-A powerful Laravel‑based form builder supporting:
-
-* Dynamic fields
-* Dependent dropdowns
-* "Other" field logic
-* CSV/Excel import
-
-### 🛍️ Marketplace System
-
-* Product listing with filters
-* Live category & subcategory updates
-* Auto‑extend ads system
+* **Restaurant & Business Websites**
+* **Laravel Form Builder Systems**
+* **Marketplace with Auto-Extend Ads**
+* **Dynamic Blog & CMS Platforms**
 
 ---
 
-## 📈 Professional Focus
+## 📈 Work Philosophy
 
-* Writing **clean, readable, and scalable code**
-* Designing interfaces that users enjoy using
-* Solving business problems with technical clarity
-* Delivering production‑ready solutions
+> *"Great software is simple, scalable, and invisible to the user."*
+
+I believe in building applications that are easy to use, easy to maintain, and built to scale.
 
 ---
 
-## ✨ Work Philosophy
+## 🐍 GitHub Contribution Animation
 
-> "Good design is obvious. Great design is transparent."
-
-I believe software should **feel effortless** to the user and **logical** to the developer.
+<p align="center">
+  <img src="https://github.com/zahrajabeenfullstackdev/zahrajabeenfullstackdev/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ---
 
 ## 📫 Let’s Connect
 
-* 💼 Fiverr & Upwork Freelancer
-* 🔗 LinkedIn: *Active*
-* 🌍 Open to remote & freelance projects
+* 💼 Freelance Developer (Fiverr & Upwork)
+* 🔗 Active on LinkedIn
+* 🌍 Open to Remote & Freelance Projects
 
 ---
 
 <p align="center">
   <strong>Thanks for visiting my GitHub 👋</strong><br>
-  <em>Let’s build something meaningful.</em>
+  <em>Let’s build something impactful.</em>
 </p>
